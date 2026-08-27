@@ -1,4 +1,4 @@
-\# LeafSense AI 🍃
+﻿\# LeafSense AI ðŸƒ
 
 
 
@@ -16,7 +16,7 @@ LeafSense uses a fine-tuned MobileNetV3-Large model to identify leaf species fro
 
 \- 10 leaf specimens across 5 plant families
 
-\- 900 raw images per specimen (500 train / 300 validation / 100 test) → 9,000 raw images total
+\- 900 raw images per specimen (500 train / 300 validation / 100 test) â†’ 9,000 raw images total
 
 \- Each training/validation image was expanded into 7 augmented variations, growing the dataset to \*\*56,000+ images\*\*
 
@@ -36,17 +36,17 @@ LeafSense uses a fine-tuned MobileNetV3-Large model to identify leaf species fro
 
 The full leaf specimen dataset and trained model weights are hosted on Hugging Face (too large for GitHub):
 
-👉 \[postym/LeafSense\_Dataset on Hugging Face](https://huggingface.co/datasets/postym/LeafSense\_Dataset)
+ðŸ‘‰ \[postym/LeafSense\_Dataset on Hugging Face](https://huggingface.co/datasets/postym/LeafSense\_Dataset)
 
 
 
 \## Project Structure
 
-\- Training notebooks (`.ipynb`) — model training and experimentation
+\- Training notebooks (`.ipynb`) â€” model training and experimentation
 
-\- Evaluation results — confusion matrices, ROC curves, classification reports, threshold analysis
+\- Evaluation results â€” confusion matrices, ROC curves, classification reports, threshold analysis
 
-\- `model\_architecture.py` — model definition
+\- `model\_architecture.py` â€” model definition
 
 
 
@@ -65,4 +65,5 @@ The full leaf specimen dataset and trained model weights are hosted on Hugging F
 \## Results
 
 See `training\_results.png`, `confusion\_matrix\_final\*.png`, and `overall\_metrics.png` for detailed per-class performance breakdowns.
+
 
