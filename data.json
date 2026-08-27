@@ -1,0 +1,430 @@
+[
+
+  {
+    "id": 0,
+    "name": "Jackfruit",
+    "scientificName": "Artocarpus Heterophyllus",
+    "familyName": "Moraceae",
+    "description": "Artocarpus heterophyllus, also known as Jackfruit, is a tree which can reach up to 30 m tall. It produces a large composite fruit which is covered with conical warts. The aril is juicy and sweet-tasting. The seeds can be eaten after roasting or boiling.",
+  "habitat": "Tropical Asia",
+  "color": "Green foliage, dark grey to greyish brown bark",
+  "foliage": "Thin-leathery and obovate-elliptic to elliptic leaves, smooth on surface and rough on undersides",
+  "bark": "Rough or scaly, dark grey to greyish brown in colour",
+  "flowers": "",
+  "fruit": "Large composite fruit covered with conical warts, juicy and sweet-tasting aril",
+  "shape": {
+    "crown": "Dense and conical when young, becomes rounded and spreading when older",
+    "trunk": "Straight with rough bark",
+    "leaves": "Obovate-elliptic to elliptic"
+  },
+  "ethnobotanicalUses": {
+    "edible": "Young fruit cooked as vegetable; ripe fruit eaten fresh or made into delicacies; seeds edible after boiling/roasting or ground into flour",
+    "medicinal": "Pulp and seeds as cooling tonic; latex treats abscesses and snakebites; root treats skin diseases and asthma; extract for fever and diarrhea; leaves for wounds",
+    "timber": "Superior hardwood resistant to termites and decay; used for furniture, construction, musical instruments; takes polish well",
+    "other": "Wood particles yield yellow dye for silk and cotton"
+  },
+  "additionalDetails": {
+    "preferredClimate": "Tropical",
+    "lifespan": "Perennial",
+    "lightPreference": "Full Sun",
+    "waterPreference": "Moderate Water",
+    "soilRequirements": "Deep, well-drained, alluvial and sandy or loamy soils, pH 6.0-7.5",
+    "leafCharacteristics": {
+      "retention": "Evergreen",
+      "texture": "Leathery, Thin",
+      "foliarVenation": "",
+      "uniqueBehavior": ""
+    },
+    "commonNames": ["Jackfruit", "Nangka", "Jack", "Jak", "Jake Tree"]
+  },
+  "imagePath": ""
+  },
+
+  {
+    "id": 1,
+    "name": "Paper Mulberry",
+    "scientificName": "Broussonetia Papyrifera",
+    "familyName": "Moraceae",
+    "description": "A deciduous tree or shrub native to eastern Asia that can grow up to 15m tall. Named for its bark which has been used traditionally to make paper.",
+  "habitat": "Native to eastern Asia, including Japan, China, Korea, and Taiwan. Naturalized in many parts of the world.",
+  "color": "Green to dark green foliage, grayish-brown bark, greenish flowers, orange-red fruit",
+  "foliage": "Large, rough-textured leaves with varying shapes - heart-shaped, oval, or deeply lobed",
+  "bark": "Grayish-brown, fibrous bark with excellent papermaking qualities",
+  "flowers": "Greenish, dioecious (male and female on separate plants)",
+  "fruit": "Orange-red, spherical, composite fruits",
+  "shape": {
+    "crown": "Rounded, spreading",
+    "trunk": "Straight with fibrous bark",
+    "leaves": "Variable leaf shapes - ovate, lobed, or heart-shaped with serrated edges"
+  },
+  "ethnobotanicalUses": {
+    "edible": "Young leaves and fruits are edible when cooked",
+    "medicinal": "Bark and leaves used in traditional Asian medicine for various ailments",
+    "timber": "Wood used for furniture and small items",
+    "other": "Bark fibers traditionally used for making high-quality paper and tapa cloth in Pacific cultures"
+  },
+  "additionalDetails": {
+    "preferredClimate": "Temperate to subtropical",
+    "lifespan": "Perennial",
+    "lightPreference": "Full sun to partial shade",
+    "waterPreference": "Moderate",
+    "soilRequirements": "Adaptable to various soils, prefers well-draining conditions",
+    "leafCharacteristics": {
+      "retention": "Deciduous",
+      "texture": "Rough, hairy",
+      "foliarVenation": "Pinnate",
+      "uniqueBehavior": "Leaves often have variable shapes on the same plant",
+      "commonNames": [
+        "Paper Mulberry",
+        "Kapa",
+        "Wauke",
+        "Morus Papyfera",
+        "Tapa Cloth Tree"
+      ]
+    }
+  },
+  "imagePath": "public/broussonetia_papyrifera.jpg"
+},
+
+  {
+    "id": 2,
+    "name": "Kapok",
+    "scientificName": "Ceiba Pentandra",
+    "familyName": "Malvaceae",
+    "description": "A massive tropical tree reaching 50-70m in height with a straight, usually buttressed trunk that often has spines. Known for its cotton-like floss (kapok) produced in its seed pods.",
+  "habitat": "Native to tropical regions of the Americas, West Africa, and Southeast Asia, typically found in rainforests and seasonally wet forests",
+  "color": "Pale green foliage, grayish-brown bark, white to pink flowers, brown seed pods",
+  "foliage": "Compound, palmate leaves with 5-9 leaflets radiating from a central point",
+  "bark": "Grayish-brown, smooth when young with large conical spines, becoming rougher with age",
+  "flowers": "White to pink, appearing when the tree is leafless",
+  "fruit": "Elliptical woody capsules containing seeds embedded in fluffy kapok fiber",
+  "shape": {
+    "crown": "Umbrella-shaped, broad and spreading in mature trees",
+    "trunk": "Massive, buttressed at base, often with thorns or spines, especially when young",
+    "leaves": "Palmate compound with 5-9 lanceolate leaflets"
+  },
+  "ethnobotanicalUses": {
+    "edible": "Young leaves and seedpods can be cooked as vegetables; seeds can be roasted and eaten or pressed for oil",
+    "medicinal": "Various parts used in traditional medicine for treating fever, asthma, kidney diseases, and diabetes; bark decoction used for digestive ailments",
+    "timber": "Lightweight wood used for canoes, coffins, crates, and plywood",
+    "other": "Kapok fiber used as stuffing for pillows, mattresses, life jackets, and insulation; sacred tree in many cultures; shade tree; honey source"
+  },
+  "additionalDetails": {
+    "preferredClimate": "Tropical",
+    "lifespan": "Long-lived perennial, can live several hundred years",
+    "lightPreference": "Full sun",
+    "waterPreference": "Moderate, drought-tolerant when established",
+    "soilRequirements": "Adaptable to various soils, prefers well-draining conditions",
+    "leafCharacteristics": {
+      "retention": "Deciduous in dry season",
+      "texture": "Smooth, leathery",
+      "foliarVenation": "Palmate",
+      "uniqueBehavior": "Drops leaves during dry season or before flowering",
+      "commonNames": [
+        "Kapok Tree",
+        "Silk-cotton Tree",
+        "White Silk-cotton Tree",
+        "Java Cotton",
+        "Ceiba",
+        "Fromager"
+      ]
+    }
+  },
+  "imagePath": "public/ceiba_pentandra.jpg"
+},
+
+  {
+    "id": 3,
+    "name": "Coconut",
+    "scientificName": "Cocos Nucifera",
+    "familyName": "Arecaceae",
+    "description": "A large palm growing up to 30m tall with a slender, ringed, unbranched trunk that often leans. Known worldwide for its valuable fruit, the coconut, which has a fibrous husk surrounding a hard shell containing white flesh and liquid.",
+  "habitat": "Native to coastal areas of the Indo-Pacific region, thrives in tropical coastal environments, often found along sandy shorelines",
+  "color": "Green to yellowish-green fronds, grayish-brown trunk, cream to yellow flowers, green to brown fruit",
+  "foliage": "Large pinnate fronds up to 6m long with numerous leaflets",
+  "bark": "Light grayish-brown trunk with distinctive ring marks where old fronds were attached",
+  "flowers": "Small, cream to yellow, arranged on branching inflorescences enclosed in a woody spathe",
+  "fruit": "Large drupe with fibrous husk surrounding hard, brown seed with white endosperm and coconut water",
+  "shape": {
+    "crown": "Radiating arrangement of arching fronds at the top of the trunk",
+    "trunk": "Slender, unbranched, often curved or leaning, marked with rings",
+    "leaves": "Large pinnate fronds with numerous narrow leaflets arranged along a central rachis"
+  },
+  "ethnobotanicalUses": {
+    "edible": "Coconut water as beverage; white meat eaten fresh or dried as copra; coconut milk and cream for cooking; palm heart (apical bud) as vegetable; sap tapped for palm sugar",
+    "medicinal": "Coconut water as rehydration fluid; oil used for skin conditions; various preparations used in traditional medicine for diabetes, kidney stones, and digestive issues",
+    "timber": "Trunk wood (coconut timber) used for construction, furniture, and handicrafts; hard wood from base used for specialty items",
+    "other": "Husks for coir fiber (ropes, mats, brushes); shells for containers, charcoal, and handicrafts; leaves for thatch, baskets, mats; oil for cosmetics, soaps, biofuel; entire plant considered \"tree of life\" in many cultures"
+  },
+  "additionalDetails": {
+    "preferredClimate": "Tropical coastal",
+    "lifespan": "60-100 years productive life",
+    "lightPreference": "Full sun",
+    "waterPreference": "High, though somewhat salt and drought tolerant",
+    "soilRequirements": "Sandy, well-draining soils, tolerates saline conditions",
+    "leafCharacteristics": {
+      "retention": "Evergreen",
+      "texture": "Leathery, flexible",
+      "foliarVenation": "Parallel",
+      "uniqueBehavior": "Fronds can withstand strong winds due to flexible structure",
+      "commonNames": [
+        "Coconut Palm",
+        "Coconut Tree",
+        "Nariyal",
+        "Kelapa",
+        "Kopra"
+      ]
+    }
+  },
+  "imagePath": "public/cocos_nucifera.jpg"
+},
+
+  {
+    "id":4,
+    "name": "Durian",
+    "scientificName": "Durio Zibethinus",
+    "familyName": "Malvaceae",
+    "description": "Tropical tree known for its large, spiky fruit with strong odor and custard-like flesh. The fruit is polarizing, with devotees praising its rich, complex flavor while others are repelled by its powerful smell.",
+    "habitat": "Lowland rainforests of Southeast Asia, primarily Malaysia, Indonesia, and Thailand",
+    "color": "Green to yellowish-brown",
+    "foliage": "Evergreen, glossy dark green leaves",
+    "bark": "Smooth gray to reddish-brown, becoming rougher with age",
+    "flowers": "Large, cream to yellowish-white, strongly scented and open at night",
+    "fruit": "Large (up to 30 cm), oval to round, covered with sharp spines, containing pale yellow to golden creamy flesh surrounding large seeds",
+    "shape": {
+      "crown": "Dense and dome-shaped",
+      "trunk": "Straight with buttresses at base in mature specimens",
+      "leaves": "Elliptical to oblong, alternate arrangement, 10-15 cm long"
+    },
+    "ethnobotanicalUses": {
+      "edible": "Fruit pulp consumed fresh or used in desserts, ice cream, and candies; seeds can be roasted and eaten",
+      "medicinal": "Traditional use for fever reduction, anti-inflammatory properties, and as a tonic for various ailments",
+      "timber": "Wood used for construction, furniture, and boat building",
+      "other": "Husks used for fuel or compost; empty shells sometimes carved into ornaments"
+    },
+    "additionalDetails": {
+      "preferredClimate": "Tropical, high humidity, temperatures 24-32°C",
+      "lifespan": "80-150 years",
+      "lightPreference": "Full sun to partial shade",
+      "waterPreference": "Regular watering, moderate to high rainfall",
+      "soilRequirements": "Deep, well-drained, fertile soil with slightly acidic to neutral pH",
+      "leafCharacteristics": {
+        "retention": "Evergreen",
+        "texture": "Leathery and glossy",
+        "foliarVenation": "Pinnate with prominent midrib",
+        "uniqueBehavior": "Young leaves and shoots covered with golden or coppery scales",
+        "commonNames": ["King of Fruits", "Civet Fruit", "Duren"]
+      },
+      "imagePath": "/images/durio_zibethinus.jpg"
+    }
+  },
+
+  {
+    "id": 5,
+    "name": "African Oil Palm",
+    "scientificName": "Elaeis Guineensis",
+    "familyName": "Arecaceae",
+    "description": "Tall monocotyledonous tropical palm tree cultivated extensively for its high-yielding oil-rich fruits. It is a major source of palm oil and palm kernel oil, used in food products, cosmetics, and biofuels.",
+    "habitat": "Originally from West and Central Africa, now cultivated throughout tropical regions, especially Southeast Asia",
+    "color": "Green to brownish-green",
+    "foliage": "Large, pinnate, arching fronds with leaflets arranged in regular pattern",
+    "bark": "Rough with distinctive leaf scars forming a crisscross pattern",
+    "flowers": "Small, cream to yellowish, clustered in compact inflorescences, male and female flowers on same plant",
+    "fruit": "Oval, 3-5 cm long drupes, red-orange when ripe, growing in large bunches that can weigh 40-50 kg",
+    "shape": {
+      "crown": "Spreading crown of 20-40 fronds",
+      "trunk": "Single, straight, unbranched trunk with prominent leaf scars",
+      "leaves": "Pinnate fronds 3-5 meters long with 200-300 leaflets"
+    },
+    "ethnobotanicalUses": {
+      "edible": "Mesocarp yields palm oil; kernels yield palm kernel oil; palm hearts eaten as vegetable; sap fermented into palm wine",
+      "medicinal": "Traditional uses for treating various ailments; palm oil rich in vitamin A and E",
+      "timber": "Trunks used in construction of traditional houses and furniture",
+      "other": "Empty fruit bunches used as mulch or biofuel; leaves used for thatching and basket weaving"
+    },
+    "additionalDetails": {
+      "preferredClimate": "Tropical, high rainfall, temperatures 24-32°C",
+      "lifespan": "25-30 years (commercial), up to 80 years (wild)",
+      "lightPreference": "Full sun",
+      "waterPreference": "High water requirements, 1,800-2,500 mm annual rainfall",
+      "soilRequirements": "Deep, well-drained, fertile soil, can tolerate acidic conditions",
+      "leafCharacteristics": {
+        "retention": "Persistent, fronds remain attached for years",
+        "texture": "Stiff and leathery",
+        "foliarVenation": "Parallel venation in leaflets",
+        "uniqueBehavior": "Forms a crown shaft of tightly packed leaf bases",
+        "commonNames": ["African Oil Palm", "Macaw-fat", "Dendê Palm"]
+      },
+      "imagePath": "/images/elaeis_guineensis.jpg"
+    }
+  },
+
+  {
+    "id": 6,
+    "name": "Poinsettia",
+    "scientificName": "Euphorbia Pulcherrima",
+    "familyName": "Euphorbiaceae",
+    "description": "Shrub or small tree known for its vibrant red bracts that are often mistaken for flowers. Popular ornamental plant associated with Christmas and winter holidays.",
+    "habitat": "Native to Mexico and Central America, particularly in deciduous tropical forests",
+    "color": "Green with red, pink, white, or marbled bracts depending on cultivar",
+    "foliage": "Dark green leaves, oval to elliptical with serrated edges",
+    "bark": "Green and smooth on young stems, becoming woody and grayish with age",
+    "flowers": "Small, inconspicuous yellow flowers (cyathia) surrounded by colorful modified leaves (bracts)",
+    "fruit": "Small three-chambered capsules containing seeds",
+    "shape": {
+      "crown": "Bushy and spreading in wild forms, more compact in cultivated varieties",
+      "trunk": "Multiple stems, somewhat woody near base",
+      "leaves": "Alternate arrangement, 7-16 cm long with pointed tips"
+    },
+    "ethnobotanicalUses": {
+      "edible": "Not edible; contains latex that can be irritating",
+      "medicinal": "Used in Mexican traditional medicine for treating skin infections, warts, and to increase lactation",
+      "timber": "Not used as timber",
+      "other": "Primarily ornamental; historically used by Aztecs to produce red dye; latex has been used as depilatory"
+    },
+    "additionalDetails": {
+      "preferredClimate": "Tropical to subtropical, sensitive to cold temperatures below 10°C",
+      "lifespan": "Perennial, typically grown as seasonal in temperate regions",
+      "lightPreference": "Bright indirect light; needs dark periods to develop colored bracts",
+      "waterPreference": "Moderate watering, sensitive to overwatering",
+      "soilRequirements": "Well-draining, fertile soil with neutral to slightly acidic pH",
+      "leafCharacteristics": {
+        "retention": "Deciduous in native habitat, semi-evergreen in cultivation",
+        "texture": "Smooth with fine hairs on underside",
+        "foliarVenation": "Pinnate venation with prominent midrib",
+        "uniqueBehavior": "Photoperiodic plant requiring 12+ hours of darkness for 5-10 weeks to develop colored bracts",
+        "commonNames": ["Christmas Star", "Christmas Flower", "Mexican Flame Leaf", "Noche Buena"]
+      },
+      "imagePath": "/images/euphorbia_pulcherrima.jpg"
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Cassava",
+    "scientificName": "Manihot Esculenta",
+    "familyName": "Euphorbiaceae",
+    "description": "Woody shrub cultivated for its starchy tuberous roots, which are a major food source in tropical regions. The plant is valued for its drought tolerance and ability to grow in poor soils.",
+    "habitat": "Native to South America, now cultivated throughout tropical and subtropical regions",
+    "color": "Green to reddish-green stems with green foliage",
+    "foliage": "Palmate leaves with 5-9 deep lobes, glossy green",
+    "bark": "Young stems green to reddish, becoming woody and grayish-brown with age",
+    "flowers": "Small, yellowish-green, unisexual flowers in branched clusters",
+    "fruit": "Small capsules with ridged exterior, containing seeds",
+    "shape": {
+      "crown": "Bushy, open growth habit",
+      "trunk": "Erect, woody stems reaching 2-4 meters in height",
+      "leaves": "Deeply lobed, palmate arrangement, 10-20 cm long on long petioles"
+    },
+    "ethnobotanicalUses": {
+      "edible": "Tuberous roots processed for starch (tapioca); young leaves eaten as vegetable in some cultures after proper preparation",
+      "medicinal": "Traditional uses for treating diarrhea, malaria, wounds, and as an anti-inflammatory",
+      "timber": "Not used as timber",
+      "other": "Starch used in textile industry as sizing agent; industrial applications for biofuels and bioplastics"
+    },
+    "additionalDetails": {
+      "preferredClimate": "Tropical to subtropical, adaptable to various conditions",
+      "lifespan": "Perennial but typically harvested after 8-24 months",
+      "lightPreference": "Full sun",
+      "waterPreference": "Drought-tolerant once established, optimal rainfall 1,000-1,500 mm/year",
+      "soilRequirements": "Adaptable to poor, acidic soils but performs best in well-draining, fertile loams",
+      "leafCharacteristics": {
+        "retention": "Semi-deciduous, may drop leaves during drought",
+        "texture": "Smooth and glossy",
+        "foliarVenation": "Palmate venation with veins radiating from petiole attachment",
+        "uniqueBehavior": "Leaves exhibit nyctinastic movement, folding at night",
+        "commonNames": ["Manioc", "Yuca", "Tapioca Plant", "Brazilian Arrowroot"]
+      },
+      "imagePath": "/images/manihot_esculenta.jpg"
+    }
+  },
+
+  {
+    "id": 8,
+    "name": "Rain Tree",
+    "scientificName": "Samanea Saman",
+    "familyName": "Fabaceae (Leguminosae)",
+    "description": "A tree up to 30m tall, known for its iconic umbrella-shaped crown that provides plenty of shade. Leaflets uniquely fold up during overcast days and in the early evening, earning it the name 'Pukul Lima' (five o'clock in Malay).",
+    "habitat": "Native to Northern tropical South America, found in terrestrial environments including primary rainforests, grasslands, and savannahs",
+    "color": "Green foliage, dark brown bark, pink and white flowers, black and brown fruit",
+    "foliage": "Bipinnately-compound with small asymmetrical leaflets, green in color",
+    "bark": "Dark brown, woody, becoming more fissured with age",
+    "flowers": "Pink and white",
+    "fruit": "Black and brown pods",
+    "shape": {
+      "crown": "Umbrella-shaped, wide-spreading (up to 80m across)",
+      "trunk": "Woody, becoming more fissured with age",
+      "leaves": "Bipinnately-compound with small asymmetrical leaflets"
+    },
+    "ethnobotanicalUses": {
+      "edible": "Pods contain edible pulp, sometimes used as livestock feed",
+      "medicinal": "Various parts used in traditional medicine",
+      "timber": "Wood used for furniture, construction, and decorative purposes",
+      "other": "Excellent shade tree, soil improver due to nitrogen fixation"
+    },
+    "additionalDetails": {
+      "preferredClimate": "Tropical",
+      "lifespan": "Perennial",
+      "lightPreference": "Full Sun",
+      "waterPreference": "Moderate",
+      "soilRequirements": "Adaptable to various soil types, prefers well-draining soil",
+      "leafCharacteristics": {
+        "retention": "Evergreen",
+        "texture": "Smooth, Velvety, Furry",
+        "foliarVenation": "Pinnate/Net",
+        "uniqueBehavior": "Leaflets fold up in early evening and during overcast days"
+      },
+      "commonNames": [
+        "Rain Tree",
+        "Pukul Lima",
+        "Cow Tamarind",
+        "Hujan-Hujan",
+        "East Indian Walnut",
+        "Monkey-pod",
+        "Saman"
+      ]
+    },
+    "imagePath": "public/samanea_saman.jpg"
+  },
+
+  {
+    "id": 9,
+    "name": "Cacao",
+    "scientificName": "Theobroma Cacao",
+    "familyName": "Malvaceae",
+    "description": "Evergreen tree native to the deep tropical regions of the Americas. Its seeds are the source of chocolate, cocoa powder, and cocoa butter. The name 'Theobroma' means 'food of the gods' in Greek.",
+    "habitat": "Understory of tropical rainforests of Central and South America",
+    "color": "Deep green foliage with reddish new growth",
+    "foliage": "Glossy, elongated oval leaves, alternate arrangement",
+    "bark": "Thin, smooth, brownish-gray",
+    "flowers": "Small, pinkish-white to yellowish-white, grow directly on trunk and older branches (cauliflory)",
+    "fruit": "Large pod (15-30 cm long), varying in color from yellow to purple, containing 20-60 seeds embedded in sweet pulp",
+    "shape": {
+      "crown": "Spreading, layered canopy",
+      "trunk": "Short main trunk (typically 2-4 m before branching)",
+      "leaves": "Oblong, 15-30 cm long with pointed tips and smooth margins"
+    },
+    "ethnobotanicalUses": {
+      "edible": "Seeds processed for chocolate production; pulp consumed fresh or fermented into beverages",
+      "medicinal": "Traditional uses include treating fatigue, fever, heart problems; cacao contains antioxidants and mood-enhancing compounds",
+      "timber": "Wood occasionally used for small items but not valued for timber",
+      "other": "Cocoa butter used in cosmetics and pharmaceuticals; husks used as mulch or animal feed"
+    },
+    "additionalDetails": {
+      "preferredClimate": "Tropical, temperatures 21-32°C, high humidity",
+      "lifespan": "25-30 years commercially, can live 50-100 years",
+      "lightPreference": "Shade-tolerant, especially when young; filtered light preferred",
+      "waterPreference": "High moisture requirement, 1,500-2,500 mm annual rainfall, evenly distributed",
+      "soilRequirements": "Deep, rich, well-drained soil, slightly acidic (pH 5.0-7.0)",
+      "leafCharacteristics": {
+        "retention": "Evergreen but periodically sheds and replaces leaves",
+        "texture": "Leathery and glossy",
+        "foliarVenation": "Pinnate with prominent midrib",
+        "uniqueBehavior": "Young leaves flush with reddish-bronze color and hang limply before hardening",
+        "commonNames": ["Cocoa Tree", "Chocolate Tree", "Food of the Gods"]
+      },
+      "imagePath": "/images/theobroma_cacao.jpg"
+    }
+  }
+  
+]
