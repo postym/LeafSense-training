@@ -36,7 +36,7 @@ LeafSense uses a fine-tuned MobileNetV3-Large model to identify leaf species fro
 
 The full leaf specimen dataset and trained model weights are hosted on Hugging Face (too large for GitHub):
 
-👉 \[postym/LeafSense\_Dataset on Hugging Face](https://huggingface.co/datasets/postym/LeafSense\_Dataset)
+👉 \[postym/LeafSense\_Dataset on Hugging Face](https://huggingface.co/datasets/postym/LeafSense_Dataset)
 
 
 
