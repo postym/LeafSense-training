@@ -1,4 +1,4 @@
-﻿\# LeafSense AI ðŸƒ
+\# LeafSense AI ðŸƒ
 
 
 
